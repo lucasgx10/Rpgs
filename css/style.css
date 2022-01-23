@@ -1,3 +1,28 @@
 .heart {
     background-color: mediumspringgreen;
 }
+ul {
+    list-style-type: none;
+}
+.paint {
+    color:green;
+}
+.black {
+    color:blue;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: darkgrey;
+    width: 659px;
+    
+}
+.red {
+    color:purple;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
